@@ -1,3 +1,4 @@
+```yaml
 name: Indian Life
 key: Indian Life
 color: Purpule
@@ -31,5 +32,6 @@ clans:
     tag: L28QUJQP
   - name: Assasin's Hood
     tag: 2CJRGL
-   
+   …
+```
  
